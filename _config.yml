@@ -1,0 +1,17 @@
+# Site settings
+title: Prateep Gedupudi Blog
+header-img: img/home-bg.jpg
+email: mailto@prateep.info
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: "/blog"
+url: "http://yourdomain.com"
+twitter_username: prateepgedupudi
+github_username:  prateepgedupudi
+facebook_username:  prateep.gedupudi
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
