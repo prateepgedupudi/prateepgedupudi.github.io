@@ -4,7 +4,7 @@ title:      "Hadoop Single Node Setup And Simple Use Case"
 subtitle:   "single-node Hadoop installation quickly to perform simple operations using Hadoop MapReduce and the Hadoop Distributed File System (HDFS)"
 date:       2015-10-30 06:10-301:00
 author:     "Prateep Gedupudi"
-header-img: "img/post-bg-amd.jpg"
+header-img: "img/post-bg-HadoopSNS.jpg"
 ---
 
 <p>In below video I showed how to set up and run hadoop quickly in less than 10 min. By using wget I will download index.html file from prateep.info. Index.html as a input I will run Grep class from hadoop-examples.xxx.jar to count occurrences of prateep.</p>
