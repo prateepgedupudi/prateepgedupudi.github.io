@@ -4,7 +4,7 @@ title:      "What is Big Data ? - In Its Definition by Tom White"
 subtitle:   "Naturally Big data is that exceeds the processing capacity of conventional database systems"
 date:       2015-12-06 22:52:00
 author:     "Prateep Gedupudi"
-header-img: "img/post-bg-BigInDefinition.jpg"
+header-img: "img/BigData-In-Definition.png"
 ---
 <h2 class="section-heading">Big Data Definition:</h2>
 <blockquote>Bit data are a collection of data sets so large and complex that it becomes difficult to process using on-hand database management tools or traditional data processing applications</blockquote>
