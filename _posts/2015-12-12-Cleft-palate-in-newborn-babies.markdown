@@ -16,6 +16,6 @@ header-img: "img/cleftpalatehd.png"
 <p>
 	Because clefting causes very obvious physical changes, a cleft palate is easy to diagnose. Prenatal ultrasound can sometimes determine if a cleft exists in an unborn child. If the clefting has not been detected in an ultrasound prior to the baby's birth, a physical exam of the mouth, nose, and palate confirms the presence of cleft lip or cleft palate after a child's birth. Sometimes diagnostic testing may be conducted to determine or rule out the presence of other abnormalities.
 </p>
-<img class="img-responsive center-block" src="/img/cleftpalate1.png" alt="">
-<img class="img-responsive center-block" src="/img/cleftpalate2.png" alt="">
+<img class="img-responsive center-block" src="/img/cleftpalate1.jpg" alt="">
+<img class="img-responsive center-block" src="/img/cleftpalate2.jpg" alt="">
 <span class="caption text-muted">Normal and abnormal comparisons</span>
