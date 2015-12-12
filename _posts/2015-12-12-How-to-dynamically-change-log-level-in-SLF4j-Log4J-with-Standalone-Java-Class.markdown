@@ -27,7 +27,7 @@ header-img: "img/Slflog4jinstandard.png"
 	JUL, Log4j 1.2, Log4j 2 and Logback are full-blown logging implementations. We can just use these directly.
 	Apache Commons Logging and SLF4J are facades over actual logging implementations. Each of them does include an internal, simplistic logging implementation (“SimpleLog” for Commons Logging, “Simple” for SLF4J) but we are meant to use a real implementation in production
 </p>
-<img class="img-responsive" src="/img/slf4jlog4jbinding.png" alt="">
+<img class="img-responsive center-block" src="/img/slf4jlog4jbinding.png" alt="">
 <span class="caption text-muted">Slf4j and Log4j Binding</span>
 <blockquote><a href="https://github.com/prateepgedupudi/Slf4jLog4jDemoApp.git">Code Download</a> </blockquote>
 
