@@ -33,6 +33,7 @@ $(function() {
             $.ajax({
                 url: "//formspree.io/prateep.gedupudi@gmail.com",
                 type: "POST",
+				dataType: "json",
                 data: {
                     name: name,
                     phone: phone,
