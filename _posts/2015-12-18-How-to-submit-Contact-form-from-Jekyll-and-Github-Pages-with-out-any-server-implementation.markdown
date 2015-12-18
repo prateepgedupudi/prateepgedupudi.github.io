@@ -21,14 +21,15 @@ header-img: "img/JekyllContactSubmittion.png"
 	Lets take below example of code.
 </p>
 <p>
-	<pre><code>
-	<form action="//formspree.io/your@email.com"
-		  method="POST">
-		<input type="text" name="name">
-		<input type="email" name="_replyto">
-		<input type="submit" value="Send">
-	</form>
-	</code></pre>
+	<pre>
+		<code class="language-html" data-lang="html"><span class="nt">&lt;form</span> <span class="na">action=</span><span class="s">&quot;//formspree.io/your@email.com&quot;</span><span class="nt">&gt;</span>
+		  Email: <span class="nt">&lt;input</span> <span class="na">type=</span><span class="s">&quot;text&quot;</span> <span class="na">name=</span><span class="s">&quot;name&quot;</span><span class="nt">&gt;&lt;br&gt;</span>
+		  Name: <span class="nt">&lt;input</span> <span class="na">type=</span><span class="s">&quot;text&quot;</span> <span class="na">name=</span><span class="s">&quot;email&quot;</span><span class="nt">&gt;&lt;br&gt;</span>
+		  Subject: <span class="nt">&lt;input</span> <span class="na">type=</span><span class="s">&quot;text&quot;</span> <span class="na">name=</span><span class="s">&quot;subject&quot;</span><span class="nt">&gt;&lt;br&gt;</span>
+		  Message: <span class="nt">&lt;textarea</span> <span class="na">name=</span><span class="s">&quot;message&quot;</span> <span class="na">cols=</span><span class="s">&quot;40&quot;</span> <span class="na">rows=</span><span class="s">&quot;5&quot;</span><span class="nt">&gt;&lt;/textarea&gt;</span>
+		  <span class="nt">&lt;input</span> <span class="na">type=</span><span class="s">&quot;submit&quot;</span> <span class="na">value=</span><span class="s">&quot;Send Message&quot;</span><span class="nt">&gt;</span>
+		<span class="nt">&lt;/form&gt;</span></code>
+	</pre>
 </p>
 
 <h3>1.Setup the HTML form</h3>
