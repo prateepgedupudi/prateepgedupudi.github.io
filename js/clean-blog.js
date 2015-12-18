@@ -31,7 +31,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
+                url: "//formspree.io/prateep.gedupudi@gmail.com",
                 type: "POST",
                 data: {
                     name: name,
