@@ -30,6 +30,23 @@ header-img: "img/Slflog4jinstandard.png"
 </p>
 <img class="img-responsive center-block" src="/img/slf4jlog4jbinding.png" alt="">
 <span class="caption text-muted">Slf4j and Log4j Binding</span>
+<h3 class="section-heading">Changing LogLevel Dynamically</h3>
+<p>We do not have a way to change log level from slf4j api and we need to rely on implementation, in our case log4j api. First get rootLogger with log4j then set the level on it. Here is an example code for the same </p>
+
+<pre><code>logger.info("Sample Info");
+		logger.debug("Sample Debug");
+		logger.error("Sample Error");
+		logger.trace("Sample Trace");
+		logger.warn("Sample Warn");
+		
+		org.apache.log4j.Logger logger4j = org.apache.log4j.Logger.getRootLogger();
+		logger4j.setLevel(org.apache.log4j.Level.toLevel("ERROR"));
+				
+		logger.info("Sample Info After setLevel");
+		logger.debug("Sample Debug After setLevel");
+		logger.error("Sample Error After setLevel");
+		logger.trace("Sample Trace After setLevel");
+		logger.warn("Sample Warn After setLevel");</code></pre>
 <blockquote><a href="https://github.com/prateepgedupudi/Slf4jLog4jDemoApp.git">Code Download</a> </blockquote>
 
 <div class="embed-responsive embed-responsive-16by9">
