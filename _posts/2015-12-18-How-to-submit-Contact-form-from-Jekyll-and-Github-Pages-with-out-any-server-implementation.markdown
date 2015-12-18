@@ -43,7 +43,7 @@ header-img: "img/JekyllContactSubmittion.png"
 </p>
 <h3>3. All set, receive emails</h3>
 <p>
-	From now on, when someone submits that form, we'll forward you the data as email.
+	From now on, when someone submits that form, formspree will forward you the data as email.
 </p>
 <h3>We can even use AJAX</h3>
 <p>
