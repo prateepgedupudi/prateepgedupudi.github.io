@@ -22,19 +22,19 @@ header-img: "img/JekyllContactSubmittion.png"
 </p>
 
 <pre><code>
-<form action="//formspree.io/your@email.com"
+"<form action="//formspree.io/your@email.com"
       method="POST">
     <input type="text" name="name">
     <input type="email" name="_replyto">
     <input type="submit" value="Send">
-</form>
+</form>"
 </code></pre>
 
 <h3>1.Setup the HTML form</h3>
 <p>
-	Change your form's <blockquote>action</blockquote>-attribute to this and replace your@email.com with your own email.
+	Change your form's <code>action</code>-attribute to this and replace your@email.com with your own email.
 </p>
-<blockquote>http://formspree.io/myusername@gmail.com</blockquote>
+<code>http://formspree.io/myusername@gmail.com</code>
 <h3>2. Submit the form and confirm your email addres</h3>
 <p>
 	Go to your website and submit the form once. This will send you an email asking to confirm your email address, so that no one can start sending you spam from random websites.
@@ -45,7 +45,7 @@ header-img: "img/JekyllContactSubmittion.png"
 </p>
 <h3>We can even use AJAX</h3>
 <p>
-	You can use Formspree via AJAX. This even works cross-origin. The trick is to set the <blockquote>Accept</blockquote> header to <blockquote>application/json</blockquote>. If you're using jQuery this can be done like so:
+	You can use Formspree via AJAX. This even works cross-origin. The trick is to set the <code>Accept</code> header to <code>application/json</code>. If you're using jQuery this can be done like so:
 </p>
 <pre><code>
 $.ajax({
