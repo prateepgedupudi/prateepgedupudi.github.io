@@ -20,15 +20,16 @@ header-img: "img/JekyllContactSubmittion.png"
 <p>
 	Lets take below example of code.
 </p>
-
-<pre><code>
-"<form action="//formspree.io/your@email.com"
-      method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="submit" value="Send">
-</form>"
-</code></pre>
+<p>
+	<pre><code>
+	<form action="//formspree.io/your@email.com"
+		  method="POST">
+		<input type="text" name="name">
+		<input type="email" name="_replyto">
+		<input type="submit" value="Send">
+	</form>
+	</code></pre>
+</p>
 
 <h3>1.Setup the HTML form</h3>
 <p>
