@@ -18,7 +18,8 @@ header-img: "img/Slflog4jinstandard.png"
 <h3 class="section-heading">Here are some of logging levels</h3>
 <ul class="list-group">
   <li class="list-group-item">ERROR label for actual errors</li>
-  <li class="list-group-item">WARN for potential issues that can interfere with correct workings of the application but will not crash it. INFO for messages announcing the start of your batch process</li>
+  <li class="list-group-item">WARN for potential issues that can interfere with correct workings of the application but will not crash it.</li>
+  <li class="list-group-item">INFO for messages announcing the start of your batch process</li>
   <li class="list-group-item">DEBUG and TRACE for all other things we don’t want to read in the future or only when really needed, like the type of implementations of certain interfaces loaded on startup. I believe if we are using the DEBUG or TRACE level to actually debug our application, we probably should have written a unit test that verifies that part of code we wrote full with debug statements</li>
 </ul>
 
