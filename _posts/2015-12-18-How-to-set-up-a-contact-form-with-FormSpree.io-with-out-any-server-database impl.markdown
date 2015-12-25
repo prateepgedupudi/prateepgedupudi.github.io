@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "How to submit Contact form from Jekyll and Github Pages with out any server implementation"
-subtitle:   "Functional HTML forms with no database"
+title:      "How to set up a contact form with FormSpree.io with out any server/database impl"
+subtitle:   "Functional HTML forms with no server/database"
 date:       2015-12-18 15:27:00
 author:     "Prateep Gedupudi"
 header-img: "img/JekyllContactSubmittion.png"
