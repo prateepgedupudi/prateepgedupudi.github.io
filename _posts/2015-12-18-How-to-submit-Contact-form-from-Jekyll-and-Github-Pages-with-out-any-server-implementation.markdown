@@ -37,7 +37,7 @@ header-img: "img/JekyllContactSubmittion.png"
 	Change your form's <code>action</code>-attribute to this and replace your@email.com with your own email.
 </p>
 <code>http://formspree.io/myusername@gmail.com</code>
-<h3>2. Submit the form and confirm your email addres</h3>
+<h3>2. Submit the form and confirm your email address</h3>
 <p>
 	Go to your website and submit the form once. This will send you an email asking to confirm your email address, so that no one can start sending you spam from random websites.
 </p>
