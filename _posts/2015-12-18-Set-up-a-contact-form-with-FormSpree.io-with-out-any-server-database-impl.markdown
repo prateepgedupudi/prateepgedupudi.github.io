@@ -34,8 +34,7 @@ header-img: "img/JekyllContactSubmittion.png"
 
 <h3>1.Setup the HTML form</h3>
 <p>
-	Change your form's <code>action</code>-attribute to this and replace your@email.com with your own email.
-	<code>http://formspree.io/myusername@gmail.com</code>
+	Change your form's <code>action</code>-attribute to this and replace your@email.com with your own email.<code>http://formspree.io/myusername@gmail.com</code>
 </p>
 
 <h3>2. Submit the form and confirm your email address</h3>
