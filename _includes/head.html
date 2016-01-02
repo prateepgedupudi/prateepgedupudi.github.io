@@ -21,9 +21,9 @@
 	<!-- Authorship details. -->
     <!-- Output author details if some exist. -->
 	{% assign author = site.data.people[page.author] %}
-    {% if author.google_plus %}
+    {% if author.name %}
         <!-- Link to the authors Google page. -->
-        <link rel="author" href="{{ author.google_plus }}?rel=author" />
+        <link rel="author" href="{{ author.name }}?rel=author" />
     {% endif %}
 
     <!-- Custom Fonts -->
