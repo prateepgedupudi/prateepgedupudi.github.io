@@ -20,6 +20,7 @@
 	
 	<!-- Authorship details. -->
     <!-- Output author details if some exist. -->
+	{% assign author = site.data.people[page.author] %}
     {% if author.google_plus %}
         <!-- Link to the authors Google page. -->
         <link rel="author" href="{{ author.google_plus }}?rel=author" />
