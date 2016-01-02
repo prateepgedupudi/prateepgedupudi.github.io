@@ -14,7 +14,8 @@ description: "Anything"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+	{% assign author = site.data.authors[post.author] %}
+    <p class="post-meta">Posted by {% if author.name %}{{ author.name }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
 {% endfor %}
