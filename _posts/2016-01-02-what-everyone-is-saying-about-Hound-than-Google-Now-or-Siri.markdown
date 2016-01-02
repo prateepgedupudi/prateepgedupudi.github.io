@@ -3,7 +3,7 @@ layout:     post
 title:      "what everyone is saying about Hound than Google Now or Siri"
 subtitle:   "Voice Search App with unrivaled speed and accuracy"
 date:       2016-01-02 00:33:00
-author:     prateep_gedupudi
+author:     "Prateep Gedupudi"
 header-img: "img/hound-bg.png"
 ---
 <p>
