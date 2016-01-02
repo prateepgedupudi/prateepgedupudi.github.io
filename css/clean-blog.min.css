@@ -1,6 +1,6 @@
 /*!
  * Clean Blog v1.0.0 (http://prateep.info)
- * Copyright 2015 Prateep Gedupudi
+ * Copyright 2016 Prateep Gedupudi
  * Licensed under Apache 2.0 (https://github.com/prateepgedupudi/prateepgedupudi.github.io/blob/master/LICENSE)
  */
 
