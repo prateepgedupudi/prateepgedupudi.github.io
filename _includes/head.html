@@ -17,6 +17,13 @@
 
     <!-- Pygments Github CSS -->
     <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
+	
+	<!-- Authorship details. -->
+    <!-- Output author details if some exist. -->
+    {% if author.google_plus %}
+        <!-- Link to the authors Google page. -->
+        <link rel="author" href="{{ author.google_plus }}?rel=author" />
+    {% endif %}
 
     <!-- Custom Fonts -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
