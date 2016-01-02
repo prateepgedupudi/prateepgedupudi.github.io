@@ -3,7 +3,7 @@ layout:     post
 title:      "Getting a canada visa is easy now. How to get canada visa easily?"
 subtitle:   "International Experience Canada – travel and work in Canada"
 date:       2015-12-13 01:56:00
-author:     "Prateep Gedupudi"
+author:     prateep_gedupudi
 header-img: "img/canadavisahd.png"
 ---
 <p>

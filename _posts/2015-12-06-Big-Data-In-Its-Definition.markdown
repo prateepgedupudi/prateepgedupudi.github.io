@@ -3,7 +3,7 @@ layout:     post
 title:      "What is Big Data ? - In Its Definition by Tom White"
 subtitle:   "Naturally Big data is that exceeds the processing capacity of conventional database systems"
 date:       2015-12-06 22:52:00
-author:     "Prateep Gedupudi"
+author:     prateep_gedupudi
 header-img: "img/BigData-In-Definition.png"
 ---
 <h2 class="section-heading">Big Data Definition:</h2>

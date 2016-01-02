@@ -3,7 +3,7 @@ layout:     post
 title:      "Data Over Cable Service Interface Specification (DOCSIS)"
 subtitle:   "An international telecommunications standard that permits the addition of high-bandwidth data transfer to an existing cable TV (CATV) system"
 date:       2015-05-04 11:40:00
-author:     "Prateep Gedupudi"
+author:     prateep_gedupudi
 header-img: "img/post-bg-docsis.jpg"
 ---
 

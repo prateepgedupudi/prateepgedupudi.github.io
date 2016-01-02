@@ -3,7 +3,7 @@ layout:     post
 title:      "Hadoop Single Node Setup And Simple Use Case"
 subtitle:   "single-node Hadoop installation quickly to perform simple operations using Hadoop MapReduce and the Hadoop Distributed File System (HDFS)"
 date:       2015-10-30 18:10:00
-author:     "Prateep Gedupudi"
+author:     prateep_gedupudi
 header-img: "img/post-bg-HadoopSNS.jpg"
 ---
 

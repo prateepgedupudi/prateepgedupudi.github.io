@@ -3,7 +3,7 @@ layout:     post
 title:      "How to dynamically change log level in SLF4j Log4J with Standalone Java Class"
 subtitle:   "LogLevel change based on the log level choosen"
 date:       2015-12-12 15:59:00
-author:     "Prateep Gedupudi"
+author:     prateep_gedupudi
 header-img: "img/Slflog4jinstandard.png"
 ---
 <p>

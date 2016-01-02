@@ -3,7 +3,7 @@ layout:     post
 title:      "Backup Whatsapp with Google Drive"
 subtitle:   "It backup messages and media to the google drive"
 date:       2015-12-06 22:52:00
-author:     "Prateep Gedupudi"
+author:     prateep_gedupudi
 header-img: "img/WhatsApp-Google-Drive-settings.png"
 ---
 <blockquote>You can back up your messages and media to Google Drive so that if you lose your phone or switch to another Android phone, your chats are safe.</blockquote>

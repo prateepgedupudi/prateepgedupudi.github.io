@@ -3,7 +3,7 @@ layout:     post
 title:      "Setting Custom Ringtone in Moto Devices  Customize Moto"
 subtitle:   "Customize Moto ringtones. Set any of your songs on your SDcard as a phone ringtone for moto e , moto g, moto x"
 date:       2015-11-23 18:53:00
-author:     "Prateep Gedupudi"
+author:     prateep_gedupudi
 header-img: "img/post-bg-setting-ringtone.jpg"
 ---
 

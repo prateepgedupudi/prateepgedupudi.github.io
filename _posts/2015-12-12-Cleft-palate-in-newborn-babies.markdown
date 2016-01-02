@@ -3,7 +3,7 @@ layout:     post
 title:      "Cleft palate in newborn babies"
 subtitle:   "A congenital split in the roof of the mouth"
 date:       2015-12-12 16:56:00
-author:     "Prateep Gedupudi"
+author:     prateep_gedupudi
 header-img: "img/cleftpalatehd.png"
 ---
 <p>

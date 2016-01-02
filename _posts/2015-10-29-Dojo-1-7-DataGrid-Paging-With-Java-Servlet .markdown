@@ -3,7 +3,7 @@ layout:     post
 title:      "Dojo 1.7 DataGrid Paging With Java Servlet "
 subtitle:   "Grids are familiar in the client/server development world"
 date:       2015-10-29 17:01:00
-author:     "Prateep Gedupudi"
+author:     prateep_gedupudi
 header-img: "img/post-bg-dojo-datagrid.jpg"
 ---
 

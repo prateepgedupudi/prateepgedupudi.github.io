@@ -3,7 +3,7 @@ layout:     post
 title:      "Asynchronous Module Definition (AMD)"
 subtitle:   "Load all JS files separately, even when they are dependent on each other"
 date:       2015-05-03 11:40:00
-author:     "Prateep Gedupudi"
+author:     prateep_gedupudi
 header-img: "img/post-bg-amd.jpg"
 ---
 

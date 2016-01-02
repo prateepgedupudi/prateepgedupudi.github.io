@@ -3,7 +3,7 @@ layout:     post
 title:      "How to maintain good health with 10000 steps a day"
 subtitle:   "Even the simplest parts of your daily routine can be great opportunities for taking a few additional steps"
 date:       2015-12-12 15:40:00
-author:     "Prateep Gedupudi"
+author:     prateep_gedupudi
 header-img: "img/MaintainGoodHealth.png"
 ---
 <h2 class="section-heading">10000 steps a day</h2>
