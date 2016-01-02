@@ -4,7 +4,7 @@ title:      "How to set up a contact form with FormSpree.io with out any server/
 subtitle:   "Functional HTML forms with no server/database"
 date:       2015-12-18 15:27:00
 author:     prateep_gedupudi
-header-img: "img/JekyllContactSubmittion.png"
+header-img: "img/formspree-bg.png"
 ---
 <p>
 	I recently moved my blog from WordPress to Jekyll after experimenting with Jekyll as a documentation platform for the past several months. Jekyll also loads more quickly.
