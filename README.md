@@ -17,4 +17,7 @@ A Grunt environment is also included. There are a number of tasks it performs li
 
 You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
 
-## Support
+## Adding FormSpree.io to Contact form
+Change the `email` under `js/prateep-blog.js` while submiting post data with 
+`ajax` 
+> url: "//formspree.io/prateep.gedupudi@gmail.com"
