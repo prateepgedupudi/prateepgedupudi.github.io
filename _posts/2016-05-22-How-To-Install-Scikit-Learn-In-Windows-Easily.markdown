@@ -20,3 +20,9 @@ header-img: "img/white-bg.png"
     `import sklearn`
 
 <img class="img-responsive center-block" src="/img/2016-05-22-Scikit-Learn-Windows-Installation-Easily-img1.png" alt="">
+
+****We can get started on Machine Learning after above steps with pretty easy course from below Google Developers youtube play list almost with out any prerequisites.***
+*
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/cKxRvEZd3Mw?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal" frameborder="0" allowfullscreen></iframe>
+</div>
