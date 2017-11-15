@@ -11,7 +11,7 @@ header-img: ""
 <p>I am a great Youtube fan and I came across a video called 'Trow Away Your Glasses' then inspired to do the exercises mentioned in the video. I have attached the video to my post here.  </p>
 <p>
     <blockquote>First, Throw away your glasses</blockquote>
-    <blockquote >Rotating your eyes 10 times in each direction</blockquote>
+    <blockquote >Rotating/moving your eyes 10 times in each direction</blockquote>
     <img class="img-responsive center-block" src="/img/TAYG_1.jpg" alt="">
     <blockquote>Moving hand hold object from far to near and focusing on it more while it is coming to you nearer</blockquote>
     <img class="img-responsive center-block" src="/img/TAYG_2.jpg" alt="">
