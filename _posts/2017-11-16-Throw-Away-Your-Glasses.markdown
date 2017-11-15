@@ -10,12 +10,12 @@ header-img: ""
 <p>I started using glasses from last 3 years. when I was not using glasses before three years at least I was trying to read long distance letters. But after wearing of glasses now I can't even recognize the letters, because those are completely blur for me.</p>
 <p>I am a great Youtube fan and I came across a video called 'Trow Away Your Glasses' then inspired to do the exercises mentioned in the video. I have attached the video to my post here.  </p>
 <p>
-    <span class="caption text-muted">First, Throw away your glasses</span>
-    <span class="caption text-muted">Rotating your eyes 10 times in each direction</span>
+    <blockquote>First, Throw away your glasses</blockquote>
+    <blockquote >Rotating your eyes 10 times in each direction</blockquote>
     <img class="img-responsive center-block" src="/img/TAYG_1.jpg" alt="">
-    <span class="caption text-muted">Moving hand hold object from far to near and focusing on it more while it is coming to you nearer</span>
+    <blockquote>Moving hand hold object from far to near and focusing on it more while it is coming to you nearer</blockquote>
     <img class="img-responsive center-block" src="/img/TAYG_2.jpg" alt="">
-    <span class="caption text-muted">Bonus Tip: Rub your hands fastly and put your palms on your eyes for every one hour if your job is related to computers</span>
+    <blockquote>Bonus Tip: Rub your hands fastly and put your palms on your eyes for every one hour if your job is related to computers</blockquote>
 </p>
 <div class="embed-responsive embed-responsive-16by9">
 	<iframe width="960" height="720" src="https://www.youtube.com/embed/Q-qN1mYJWo8" frameborder="0" allowfullscreen></iframe>
