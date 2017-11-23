@@ -17,6 +17,7 @@ header-img: ""
     <img class="img-responsive center-block" src="/img/TAYG_2.jpg" alt="">
     <blockquote>Bonus Tip: Rub your hands fastly and put your palms on your eyes for every one hour if your job is related to computers</blockquote>
 </p>
+<a href="https://www.amazon.in/Take-Off-Your-Glasses-See/dp/0517886049">Take Off Your Glasses and See: A Mind/Body Approach to Expanding Your Eyesight and Insight</a>
 <div class="embed-responsive embed-responsive-16by9">
 	<iframe width="960" height="720" src="https://www.youtube.com/embed/Q-qN1mYJWo8" frameborder="0" allowfullscreen></iframe>
 </div>
