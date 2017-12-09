@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <!-- Post Header -->
@@ -43,6 +44,11 @@ layout: default
                     </li>
                     {% endif %}
                 </ul>
+		
+		{% if page.comments %} 
+			{% include comments.html %}
+		{% endif %}
+		
 
             </div>
         </div>
