@@ -5,4 +5,4 @@
 
 User-agent: *
 
-Sitemap: http://prateep.info/sitemap.xml
+Sitemap: //prateep.info/sitemap.xml
