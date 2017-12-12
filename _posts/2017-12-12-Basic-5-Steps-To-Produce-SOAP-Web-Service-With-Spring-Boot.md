@@ -17,6 +17,43 @@ We will be building a web service server that exposes data from some of the Indi
 
 ## 1. Create an XML schema to define the domain
 
+If you look the below schema closely then you can easily identify that we have two elements(`getStateRequest, getStateResponse`) and one complex type(`state`). 
+One element is for Request object and an other is for Response object. Request object carries the `ID` of the state while coming in and hitting the service end point URL.
+On other hand Response object carries back the whole State object to the client which includes state details. That is the reason to include state complex type in to response object.
+While coming to the `state` complex type, it holds `id, name, population, capital and language` for a state.        
+````
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://prateep.info/spring/soapws"
+           targetNamespace="http://prateep.info/spring/soapws" elementFormDefault="qualified">
+
+    <xs:element name="getStateRequest">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="id" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="getStateResponse">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="state" type="tns:state"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="state">
+        <xs:sequence>
+            <xs:element name="id" type="xs:string"/>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="population" type="xs:int"/>
+            <xs:element name="capital" type="xs:string"/>
+            <xs:element name="language" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:schema>
+````
+
 ## 2. Generate domain classes based on an XML schema
 
 Generate domain classes with the below maven plugin.
