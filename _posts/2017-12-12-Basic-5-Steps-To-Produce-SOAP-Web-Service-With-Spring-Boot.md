@@ -11,9 +11,9 @@ Below is the process of creating a SOAP-based web service with Spring Boot.
 We will be building a web service server that exposes data from some of the Indian states using a WSDL-based SOAP web service.
 
 ##### Web service endpoint URL 
-[https://pg-produce-spring-boot-soap-ws.herokuapp.com/ws/states.wsdl]()
+[https://pg-produce-spring-boot-soap-ws.herokuapp.com/ws/states.wsdl](https://pg-produce-spring-boot-soap-ws.herokuapp.com/ws/states.wsdl)
 ##### Code URL 
-[https://github.com/prateepgedupudi/spring-boot-producing-soap-ws]()
+[https://github.com/prateepgedupudi/spring-boot-producing-soap-ws](https://github.com/prateepgedupudi/spring-boot-producing-soap-ws)
 
 ## 1. Create an XML schema to define the domain
 
