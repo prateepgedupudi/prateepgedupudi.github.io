@@ -9,7 +9,15 @@ header-img: ""
 
 Below is the process of creating a SOAP-based web service with Spring Boot. 
 We will be building a web service server that exposes data from some of the Indian states using a WSDL-based SOAP web service.
-Prerequisite step is to create spring boot project with [`Spring Initializr`](https://start.spring.io/) with `Web Services` and `Web` dependencies. 
+Prerequisite step is to create spring boot project with [`Spring Initializr`](https://start.spring.io/) with `Web Services` and `Web` dependencies.
+`WSDL4J` is Java stub generator for WSDL. Include wsdl4j dependency in `POM.xml`.
+
+````
+<dependency>
+    <groupId>wsdl4j</groupId>
+    <artifactId>wsdl4j</artifactId>
+</dependency>
+```` 
 
 ##### Web service endpoint URL 
 [https://pg-produce-spring-boot-soap-ws.herokuapp.com/ws/states.wsdl](https://pg-produce-spring-boot-soap-ws.herokuapp.com/ws/states.wsdl)
