@@ -2,7 +2,7 @@
 layout:     post
 title:      "5 steps to produce SOAP web service with Spring Boot"
 subtitle:   "Getting started guide to producing SOAP based web service with Spring Boot"
-date:       2017-12-13 02:21:00
+date:       2017-12-12 02:21:00
 author:     prateep_gedupudi
 header-img: ""
 ---
