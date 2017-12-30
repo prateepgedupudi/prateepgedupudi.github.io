@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to run Spring Boot from IntelliJ IDEA Community(Free) Edition
-subtitle: Free Spring Boot IntelliJ IDEA for Developer Productivity
+title: IntelliJ IDEA Community(Free) Edition for Spring Boot Applications in 2018
+subtitle: Increase Productivity with (Free) IntelliJ IDEA Community Edition Spring Boot
 date: 2017-12-30T07:29:14.512Z
 author: prateep_gedupudi
 header-img: /img/bg_post_spring_boot_intellij.jpg
@@ -44,7 +44,7 @@ One of the important reason behind using STS for Spring Boot is `Run/Debug as Sp
 </build>
 ```
 
-Now you might have an answer for a question about running Spring Boot App in IntelliJ IDEA Community edition. Yes, you are right. Just Run/Debug maven/gradle task. Below is the screen shot of the same. 
+Now you might have an answer for a question about running Spring Boot App in IntelliJ IDEA Community edition. Yes, you are right. Just Run/Debug maven/gradle task. Below is the screen shot of running spring boot maven app with in Intellij IDEA . 
 
 ![null](/img/maven_spring_boot_runas.png)
 
