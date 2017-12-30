@@ -23,5 +23,7 @@ One of the important reason behind using STS for Spring Boot is `Run/Debug as Sp
 </build>
 ````
 
-Now you might have an answer for a question about running Spring Boot App in IntelliJ IDEA Community edition. Yes, you are right. Just Run/Debug maven/gradle task. Below is the screen shot of running spring boot maven app with in Intellij IDEA . 
+Now you might have an answer for a question about running Spring Boot App in IntelliJ IDEA Community edition. Yes, you are right. Just Run/Debug maven/gradle task. Here are the screen shots of the tasks for spring boot maven and gradle apps with in Intellij IDEA . 
 <img class="img-responsive center-block" src="/img/maven_spring_boot_runas.png" alt="">
+<img class="img-responsive center-block" src="/img/gradle_run_as_spring_boot.png" alt="">
+
