@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IntelliJ IDEA Community(Free) Edition for Spring Boot Applications in 2018
-subtitle: Increase Spring Boot Productivity with (Free) IntelliJ IDEA Community Edition
+subtitle: Increase Your Spring Boot Productivity with (Free) IntelliJ IDEA Community Edition
 date: 2017-12-30T07:29:14.512Z
 author: prateep_gedupudi
 header-img: img/bg_post_spring_boot_intellij.jpg
