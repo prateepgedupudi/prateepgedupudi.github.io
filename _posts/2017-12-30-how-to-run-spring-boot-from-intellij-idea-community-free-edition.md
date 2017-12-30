@@ -10,7 +10,7 @@ As many of us are aware Spring recommended the `STS(Spring Tool Suit)` for Sprin
 
 If you are already using STS and thinking to switch to `IntelliJ IDEA` with out spending a single `$` on it then `IntelliJ IDEA Community Edition` is the best choice. Initially you may feel discomfort to work with IDEA due to shortcuts differences from STS. But trust me once you habituated with IDEA then you feel more productive especially in code completion, git, etc. 
 
-One of the important reason behind using STS for Spring Boot is `Run/Debug as Spring Boot Application`. Many of us don't know, how STS is able to provide `Run/debug as Spring Boot Application` feature. It is through a `maven/gradle` Spring Boot `plugin` which usually available in `POM.xml/build.gradle` when ever we create a Spring Boot project either from STS or from Spring Boot Initializer(<https://start.spring.io/>). So `Run as Spring Boot Application` is a task in maven/gradle.  
+One of the important reason behind using STS for Spring Boot is `Run/Debug as Spring Boot Application`. Many of us don't know, how STS is able to provide `Run/debug as Spring Boot Application` feature. It is through a `maven/gradle` Spring Boot `plugin` which usually available in `POM.xml/build.gradle` when ever we create a Spring Boot project either from STS or from \[https://start.spring.io/](Spring Boot Initializer). So `Run as Spring Boot Application` is a task in maven/gradle.  
 
 ```
 <build>
@@ -46,10 +46,6 @@ One of the important reason behind using STS for Spring Boot is `Run/Debug as Sp
 
 Now you might have an answer for a question about running Spring Boot App in IntelliJ IDEA Community edition. Yes, you are right. Just Run/Debug maven/gradle task. Below is the screen shot of the same. 
 
-![](/img/maven_spring_boot_runas.png)
-
-  
-
-\    
+![null](/img/maven_spring_boot_runas.png)
 
 \
