@@ -9,6 +9,9 @@ author: prateep_gedupudi
 ---
 We usually change the log levels in property file then again restarts the app to take effect. But think about a scenario what if we change log level  from a web console with out property update and with out needing of app restart. 
 
+Spring Boot Logging
+spring boot change log level runtime
+
 TODO: 
 
 1. create a spring boot application with rest service to change log levels from web page.
