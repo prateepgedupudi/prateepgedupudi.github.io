@@ -1,9 +1,11 @@
 ---
 layout: post
 title: >-
-  How to change Log Levels Dynamically with Web Page Console with out restarting
-  the app
-subtitle: Java SLF4j Log Level change based on the log level chosen in web page
+  How to change Log Levels Dynamically with Web Page Console | App restart is
+  not required
+subtitle: >-
+  Java SpringBoot SLF4j Log Level change based on the log level chosen in web
+  page
 date: 2017-12-30T09:27:54.655Z
 author: prateep_gedupudi
 ---
