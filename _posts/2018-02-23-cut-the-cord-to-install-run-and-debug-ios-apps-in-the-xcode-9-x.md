@@ -14,3 +14,9 @@ Then I thought of learning to create iOS app myself, went through a free Udacity
 Now the pain gone with the 'Connect via wireless network  to install, run and debug in Xcode 9 and iOS11' devices. First time connect the device to mac with the cord and enable the setting 'Connect via Network' under Xcode - window - Devices & Simulator - select the device. Then unplug the cord from phone, either connect the mac, iPhone to the same wifi network or pair the devices with bluetooth to stay in the same network. From now onwards install, run, debug iOS apps wirelessly. 
 
 Please have a look on below video for visuals of the same.
+
+<div class="embed-responsive embed-responsive-16by9">
+
+	<iframe width="960" height="720" src="https://www.youtube.com/embed/8aikzjO9Ny4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+</div>
