@@ -11,4 +11,6 @@ I saw a demo from WWDC session on core ML, how easily they were integrated the p
 
 Then I thought of learning to create iOS app myself, went through a free Udacity course and learnt to create an app. Painfull thing is we need to deploy  new versions to the phone with the cord connected to it. 
 
-Now the pain gone with the 'Connect via wireless network  to install, run and debug in Xcode 9 and iOS11' devices. First time connect the device to mac with the cord and enable the setting 'Connect via Network' under Xcode - window - Devices & Simulator - select the device. Then unplug the cord from phone, either connect the mac, iPhone to the same wifi network or pair the devices with bluetooth to stay in the same network. From now onwards install, run, debug iOS apps wirelessly.
+Now the pain gone with the 'Connect via wireless network  to install, run and debug in Xcode 9 and iOS11' devices. First time connect the device to mac with the cord and enable the setting 'Connect via Network' under Xcode - window - Devices & Simulator - select the device. Then unplug the cord from phone, either connect the mac, iPhone to the same wifi network or pair the devices with bluetooth to stay in the same network. From now onwards install, run, debug iOS apps wirelessly. 
+
+Please have a look on below video for visuals of the same.
