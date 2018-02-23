@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cut the Cord to Install, Run and Debug iOS Apps in the Xcode 9 x'
+title: 'Cut the Cord to Install, Run and Debug iOS Apps in the Xcode 9'
 subtitle: 'Connect via wireless network  to install, run and debug in Xcode 9 and iOS11 '
 date: 2018-02-23T17:27:35.812Z
 author: prateep_gedupudi
