@@ -7,7 +7,7 @@ author:     prateep_gedupudi
 header-img: "img/post-bg-HadoopSNS.jpg"
 ---
 
-<p>In below video I showed how to set up and run hadoop quickly in less than 10 min. By using wget I will download index.html file from prateep.info. Index.html as a input I will run Grep class from hadoop-examples.xxx.jar to count occurrences of prateep.</p>
+<p>In below video I showed how to set up and run hadoop quickly in less than 10 min. By using wget I will download index.html file from prateepgedupudi.github.io. Index.html as a input I will run Grep class from hadoop-examples.xxx.jar to count occurrences of prateep.</p>
 
 <p>For development single node setup is enough. This is very useful for debugging. Further reading follow the exactly mentioned order while reading:
 1. First chapter in Hadoop In Action (Book)

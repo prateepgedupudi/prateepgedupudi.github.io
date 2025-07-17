@@ -5,4 +5,4 @@
 
 User-agent: *
 
-Sitemap: //prateep.info/sitemap.xml
+Sitemap: https://prateepgedupudi.github.io/sitemap.xml

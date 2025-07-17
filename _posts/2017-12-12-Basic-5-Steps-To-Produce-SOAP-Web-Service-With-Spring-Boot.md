@@ -30,13 +30,13 @@ First step is to create XSD for a domain. If you look the below schema closely t
 One element is for Request object and an other is for Response object. Request object carries the `ID` of the state while coming in and hitting the service end point URL.
 On other hand Response object carries back the whole State object to the client which includes state details. That is the reason to include state complex type in to response object.
 While coming to the `state` complex type, it holds `id, name, population, capital and language` for a state.
-An other important info need to be noted is `targetNamespace="http://prateep.info/spring/soapws"` which will be used as a package while generating domain classes.        
+An other important info need to be noted is `targetNamespace="http://prateepgedupudi.github.io/spring/soapws"` which will be used as a package while generating domain classes.        
 
 `Location: src/main/resources/states.xsd`
 
 ````
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://prateep.info/spring/soapws"
-           targetNamespace="http://prateep.info/spring/soapws" elementFormDefault="qualified">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://prateepgedupudi.github.io/spring/soapws"
+           targetNamespace="http://prateepgedupudi.github.io/spring/soapws" elementFormDefault="qualified">
 
     <xs:element name="getStateRequest">
         <xs:complexType>
@@ -72,7 +72,7 @@ An other important info need to be noted is `targetNamespace="http://prateep.inf
 Next step is to generate domain classes for above XSD. Manual effort of creating domain classes is not at all recommended.
 So we have a `maven` plugin to create domain classes automatically while building the project. 
 If you monitor the configuration closely, we have  `schemaDirectory` where the plugin looks for the schemas and `outputDirectory` where plugin generates domain classes.
-Generated classes are placed in `src/main/java/info/prateep/spring/soapws` directory due to name space `http://prateep.info/spring/soapws` we have given in `states.xsd`
+Generated classes are placed in `src/main/java/info/prateep/spring/soapws` directory due to name space `http://prateepgedupudi.github.io/spring/soapws` we have given in `states.xsd`
 
 ````
 <plugin>
@@ -184,7 +184,7 @@ import org.springframework.ws.server.endpoint.annotation.ResponsePayload;
 
 @Endpoint
 public class StateEndpoint {
-    private static final String NAMESPACE_URI = "http://prateep.info/spring/soapws";
+    private static final String NAMESPACE_URI = "http://prateepgedupudi.github.io/spring/soapws";
 
     private StateRepository stateRepository;
 
@@ -244,7 +244,7 @@ public class WebServiceConfig extends WsConfigurerAdapter {
         DefaultWsdl11Definition wsdl11Definition = new DefaultWsdl11Definition();
         wsdl11Definition.setPortTypeName("StatesPort");
         wsdl11Definition.setLocationUri("/ws");
-        wsdl11Definition.setTargetNamespace("http://prateep.info/spring/soapws");
+        wsdl11Definition.setTargetNamespace("http://prateepgedupudi.github.io/spring/soapws");
         wsdl11Definition.setSchema(statesSchema);
         return wsdl11Definition;
     }

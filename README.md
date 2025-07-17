@@ -23,4 +23,4 @@ Change the `email` under `js/prateep-blog.js` while submiting post data with
 > url: "//formspree.io/prateep.gedupudi@gmail.com"
 
 More on FormSpree.io can be found on link
-[http://prateep.info/2015/12/18/Set-up-a-contact-form-with-FormSpree-io-with-out-any-server-database-impl/](http://prateep.info/2015/12/18/Set-up-a-contact-form-with-FormSpree-io-with-out-any-server-database-impl/)
+[https://prateepgedupudi.github.io/2015/12/18/Set-up-a-contact-form-with-FormSpree-io-with-out-any-server-database-impl/](https://prateepgedupudi.github.io/2015/12/18/Set-up-a-contact-form-with-FormSpree-io-with-out-any-server-database-impl/)

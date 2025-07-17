@@ -1,5 +1,5 @@
 /*!
- * Know To Do v1.0.0 (http://prateep.info)
+ * Know To Do v1.0.0 (https://prateepgedupudi.github.io)
  * Copyright 2015 Know To Do
  * Licensed under Apache 2.0 (https://github.com/prateepgedupudi/prateepgedupudi.github.io/blob/master/LICENSE)
  */
