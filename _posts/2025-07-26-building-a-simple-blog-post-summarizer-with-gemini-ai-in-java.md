@@ -2,7 +2,7 @@
 layout:     post
 title:      "Building a Simple Blog Post Summarizer with Gemini AI in Java"
 subtitle:   "A step-by-step guide to integrating Google's Gemini Pro into a Java application to automatically summarize blog posts."
-date:       2025-07-26 10:00:00
+date:       2025-07-26 11:00:00
 author:     prateep_gedupudi
 header-img: "img/home-bg.jpg"
 ---
@@ -44,7 +44,7 @@ Next, open the `pom.xml` file and add the following dependency for the Gemini AP
     <dependency>
         <groupId>com.google.cloud</groupId>
         <artifactId>google-cloud-vertexai</artifactId>
-        <version>2.3.0</n>
+        <version>2.3.0</version>
     </dependency>
 </dependencies>
 ```
