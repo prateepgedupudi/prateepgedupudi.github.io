@@ -37,6 +37,8 @@ Opal, and the "vibe-coding" trend it represents, is about more than just a cool 
 
 Opal is currently available as a public beta in the United States through Google Labs. While it's still in its early stages and may have limitations, it offers a fascinating glimpse into the future of software creation.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E0hrcDO3Noc?si=GoLF8JKq2Fok3paI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 This is a future where the barrier to entry for building software is not your knowledge of a programming language, but the clarity of your vision.
 
 ---
