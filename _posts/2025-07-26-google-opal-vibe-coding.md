@@ -38,3 +38,27 @@ Opal, and the "vibe-coding" trend it represents, is about more than just a cool 
 Opal is currently available as a public beta in the United States through Google Labs. While it's still in its early stages and may have limitations, it offers a fascinating glimpse into the future of software creation.
 
 This is a future where the barrier to entry for building software is not your knowledge of a programming language, but the clarity of your vision.
+
+---
+
+### Frequently Asked Questions (FAQs)
+
+**1. What exactly is "vibe-coding"?**
+
+"Vibe-coding" is a new approach to software development that focuses on describing the goal and the "vibe" of an application in natural language, rather than writing traditional code. The AI then interprets this description to generate the application's logic and functionality.
+
+**2. Do I need any coding experience to use Opal?**
+
+No. Opal is designed for everyone, regardless of technical background. If you can describe what you want your app to do in plain English, you can use Opal to build it.
+
+**3. Is Google's Opal free to use?**
+
+Yes, during its public beta phase, Opal is available for free to users in the United States through Google Labs.
+
+**4. What are the limitations of Opal?**
+
+As an experimental tool, Opal is best suited for building small, simple web applications and prototypes. It may struggle with highly complex logic or large-scale applications that require databases and complex user management.
+
+**5. Where can I try Opal?**
+
+You can access Opal through Google Labs, though it is currently limited to users in the United States.
