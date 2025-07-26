@@ -1,6 +1,6 @@
 #Know to Do - Jekyll Version
 
-###[View Live Demo &rarr;](http://prateepgedupudi.github.io)
+###[View Live Demo &rarr;](https://prateepgedupudi.github.io)
 
 ## Before You Begin
 
